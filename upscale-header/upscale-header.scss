@@ -1,9 +1,9 @@
 :host {
-	background: #000000;
+	background: #ffffff;
 
 	.header {
 		&__hamburger {
-			@include button($background-color: #003C60);
+			@include button($background-color: #ffffff);
 		}
 	}
 }
