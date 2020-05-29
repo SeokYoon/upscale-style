@@ -5,5 +5,7 @@
 		&__hamburger {
 			@include button($background-color: #ffffff);
 		}
+	.header__logo-image.desktop {
+		max-height: 100px;
 	}
 }
