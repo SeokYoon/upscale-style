@@ -29,14 +29,11 @@
 				outline: 0;
 				height: 54px;
 				a {
-					//@include button($background-color: white, $border-radius: 2px);
-					//@include small-font-size;
 					height: 42px;
 					line-height: 42px;
-					//padding: 0 $space-between;
 					text-decoration: unset;
 					text-align: left;
-					background-color: white;
+					background-color: #FFFFFF;
 					color: #000000;
 					overflow: hidden;
 					text-overflow: ellipsis;
